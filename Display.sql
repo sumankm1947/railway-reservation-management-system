@@ -15,8 +15,6 @@ SET LINESIZE 300;
 
 SET SERVEROUTPUT ON SIZE 30000;
 
-SET SERVEROUTPUT ON;
-
 ----------------------------------------------------
 -- DISPLAYING TABLES
 ----------------------------------------------------

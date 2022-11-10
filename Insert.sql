@@ -196,7 +196,7 @@ INSERT INTO TRAIN VALUES(
     500,
     '4:10 PM',
     110,
-    10,
+    0,
     1500,
     2
 );
@@ -209,7 +209,7 @@ INSERT INTO TRAIN VALUES(
     500,
     '12:05 PM',
     70,
-    50,
+    0,
     2000,
     2
 );
@@ -235,7 +235,7 @@ INSERT INTO TRAIN VALUES(
     1,
     '12:30 PM',
     100,
-    50,
+    0,
     2000,
     2
 );
@@ -248,7 +248,7 @@ INSERT INTO TRAIN VALUES(
     1,
     '9:55 AM',
     100,
-    90,
+    0,
     4000,
     2
 );
